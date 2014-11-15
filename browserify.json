@@ -1,0 +1,9 @@
+{
+    "transform": [],
+    "shim": {
+        "jquery": {
+            "path": "./bower_components/jquery/dist/jquery.js",
+            "exports": "$"
+        }
+    }
+}

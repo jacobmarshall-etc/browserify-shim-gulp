@@ -1,0 +1,10 @@
+{
+    "name": "browserify-shim-gulp",
+    "version": "0.0.0",
+    "devDependencies": {
+        "gulp": "^3.8.10",
+        "gulp-uglify": "^1.0.1",
+        "gulp-browserify": "^0.5.0",
+        "browserify-shim": "^3.8.0"
+    }
+}
